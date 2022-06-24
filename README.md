@@ -1,0 +1,5 @@
+-SOBRE MIM 
+- 👋 ola meu nome é @fernandokoslik
+- 👍 meu email de contato é estudante.alura@gmail.com.br
+- 👀 eu estou interessado em abprender novas linguagens.
+- 🌱 eu estou aprendendo recentemente a linguagem de javascript e scrath
